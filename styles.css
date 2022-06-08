@@ -3,9 +3,9 @@
 }
 
 .container1 {
-    /* border: 1px solid black; */
+    border: 1px solid black;
     width: 310px;
-    height: 100px;
+    height: 125px;
     position: relative;
 }
 
@@ -38,7 +38,7 @@
     left: 25px; 
 }
 .dero {
-    height: inherit;
+    height: 100px;
 }
 
 .dero p {
@@ -54,7 +54,18 @@
 .byT p {
     padding: 0;
     margin: 0;
+    line-height: 10px;
     text-align: right;
     font-family: sans-serif;
-    font-size: 30px;
+    font-size: 35px;
+}
+
+.container1-2 {
+    background-color: black;
+    color: #fff;
+
+}
+
+.bigO-2 {
+    border-color: #fff;
 }
